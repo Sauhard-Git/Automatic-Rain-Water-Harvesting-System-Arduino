@@ -133,8 +133,7 @@ Servo Returns to Initial Position
 
 ### 🎥 Demo Video
 
-https://github.com/user-attachments/assets/6d665cb0-faa5-46c3-9dfe-803c3c2a65b6
-
+https://github.com/user-attachments/assets/90d6a6c8-ae25-490a-b1ff-5e9d2375b8ac
 ---
 
 # 🤝 Contributing
