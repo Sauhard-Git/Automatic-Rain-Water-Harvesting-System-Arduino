@@ -121,25 +121,19 @@ Servo Returns to Initial Position
 
 ### 📷 Hardware Setup
 
-
+<img width="1280" height="960" alt="SETUP RAIN WATER" src="https://github.com/user-attachments/assets/103af35d-c179-43b8-bfe8-675fa9586be0" />
 
 ---
 
 ### 📷 Rain Detected
 
-*(Add image here)*
-
----
-
-### 📷 Water Collection
-
-*(Add image here)*
+<img width="1280" height="960" alt="RAIN DETECTED" src="https://github.com/user-attachments/assets/740fb7bf-6657-44fd-9b73-c5f159ba72ee" />
 
 ---
 
 ### 🎥 Demo Video
 
-*(Upload your GitHub video here)*
+https://github.com/user-attachments/assets/6d665cb0-faa5-46c3-9dfe-803c3c2a65b6
 
 ---
 
