@@ -121,13 +121,13 @@ Servo Returns to Initial Position
 
 ### 📷 Hardware Setup
 
-<img width="1280" height="960" alt="SETUP RAIN WATER" src="https://github.com/user-attachments/assets/103af35d-c179-43b8-bfe8-675fa9586be0" />
+<img width="1210" height="804" alt="SETUP RAIN WATER" src="https://github.com/user-attachments/assets/20938e27-43c8-4fe2-80af-fd9137696704" />
 
 ---
 
 ### 📷 Rain Detected
 
-<img width="1280" height="960" alt="RAIN DETECTED" src="https://github.com/user-attachments/assets/740fb7bf-6657-44fd-9b73-c5f159ba72ee" />
+<img width="1280" height="709" alt="RAIN DETECTED" src="https://github.com/user-attachments/assets/88bedf89-7910-4149-81ca-0e7d6567573a" />
 
 ---
 
